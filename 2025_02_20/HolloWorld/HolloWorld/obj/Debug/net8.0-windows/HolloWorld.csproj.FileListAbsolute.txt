@@ -1,0 +1,17 @@
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\bin\Debug\net8.0-windows\HolloWorld.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\bin\Debug\net8.0-windows\HolloWorld.deps.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\bin\Debug\net8.0-windows\HolloWorld.runtimeconfig.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\bin\Debug\net8.0-windows\HolloWorld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\bin\Debug\net8.0-windows\HolloWorld.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.AssemblyInfoInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.AssemblyInfo.cs
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.sourcelink.json
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\refint\HolloWorld.dll
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\HolloWorld.genruntimeconfig.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\2025_02_20\HolloWorld\HolloWorld\obj\Debug\net8.0-windows\ref\HolloWorld.dll
